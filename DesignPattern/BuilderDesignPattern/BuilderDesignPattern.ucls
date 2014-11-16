@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="BuilderDesignPatternPackages.Coke" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Coke.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="995" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="BuilderDesignPatternPackages.Burger" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Burger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="379" y="333"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="BuilderDesignPatternPackages.Wrapper" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Wrapper.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="138" x="220" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="BuilderDesignPatternPackages.Pepsi" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Pepsi.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="1173" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="BuilderDesignPatternPackages.ChickenBurger" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/ChickenBurger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="419" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="BuilderDesignPatternPackages.Meal" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Meal.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="138" x="658" y="333"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="BuilderDesignPatternPackages.Item" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Item.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="597" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="BuilderDesignPatternPackages.BuilderPatternDemo" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/BuilderPatternDemo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="139" x="658" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="BuilderDesignPatternPackages.VegBurger" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/VegBurger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="42" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="BuilderDesignPatternPackages.ColdDrink" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/ColdDrink.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="138" x="836" y="333"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="BuilderDesignPatternPackages.Packing" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Packing.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="138" x="756" y="665"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="BuilderDesignPatternPackages.Bottle" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/Bottle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="138" x="796" y="508"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="BuilderDesignPatternPackages.MealBuilder" project="DesignPattern" 
+    file="/DesignPattern/BuilderDesignPattern/BuilderDesignPatternPackages/MealBuilder.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="157" x="698" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="14">    
+    <bendpoint x="667" y="176"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="17">    
+    <bendpoint x="1004" y="333"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="20">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="21">    
+    <bendpoint x="765" y="508"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <realization id="22">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="23">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="25">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="26" name="items"/>      
+      <multiplicity id="27" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="28">    
+    <bendpoint x="964" y="508"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="29">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="30">    
+    <bendpoint x="1025" y="333"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="31">    
+    <bendpoint x="348" y="333"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <realization id="32">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <dependency id="33">    
+    <bendpoint x="388" y="508"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="34">    
+    <bendpoint x="567" y="333"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <realization id="35">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
