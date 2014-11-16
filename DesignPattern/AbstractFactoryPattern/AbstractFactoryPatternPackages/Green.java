@@ -1,4 +1,4 @@
-package AbstractFactoryPatternPackeges;
+package AbstractFactoryPatternPackages;
 
 public class Green implements Color{@Override
 	public void fill() {

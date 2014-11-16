@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.6" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
   realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
-  <class id="1" language="java" name="AbstractFactoryPatternPackeges.Square" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Square.java" binary="false" 
+  <class id="1" language="java" name="AbstractFactoryPatternPackages.Square" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Square.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="251" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="AbstractFactoryPatternPackeges.Red" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Red.java" binary="false" 
+  <class id="2" language="java" name="AbstractFactoryPatternPackages.Red" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Red.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="1028" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -21,8 +21,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="3" language="java" name="AbstractFactoryPatternPackeges.Shape" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Shape.java" binary="false" 
+  <interface id="3" language="java" name="AbstractFactoryPatternPackages.Shape" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Shape.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="149" x="251" y="768"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -31,8 +31,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="4" language="java" name="AbstractFactoryPatternPackeges.ShapeFactory" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/ShapeFactory.java" binary="false" 
+  <class id="4" language="java" name="AbstractFactoryPatternPackages.ShapeFactory" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/ShapeFactory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="117" width="149" x="440" y="472"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -41,8 +41,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="AbstractFactoryPatternPackeges.ColorFactory" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/ColorFactory.java" binary="false" 
+  <class id="5" language="java" name="AbstractFactoryPatternPackages.ColorFactory" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/ColorFactory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="117" width="149" x="780" y="472"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -51,8 +51,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="AbstractFactoryPatternPackeges.AbstractFactoryPatternDemo" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/AbstractFactoryPatternDemo.java" 
+  <class id="6" language="java" name="AbstractFactoryPatternPackages.AbstractFactoryPatternDemo" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/AbstractFactoryPatternDemo.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="190" x="657" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -61,8 +61,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="AbstractFactoryPatternPackeges.Rectangle" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Rectangle.java" binary="false" 
+  <class id="7" language="java" name="AbstractFactoryPatternPackages.Rectangle" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Rectangle.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="62" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -71,8 +71,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="AbstractFactoryPatternPackeges.Green" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Green.java" binary="false" 
+  <class id="8" language="java" name="AbstractFactoryPatternPackages.Green" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Green.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="650" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -81,8 +81,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="9" language="java" name="AbstractFactoryPatternPackeges.FactoryProducer" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/FactoryProducer.java" binary="false" 
+  <class id="9" language="java" name="AbstractFactoryPatternPackages.FactoryProducer" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/FactoryProducer.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="196" x="440" y="176"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -91,8 +91,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="10" language="java" name="AbstractFactoryPatternPackeges.Circle" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Circle.java" binary="false" 
+  <class id="10" language="java" name="AbstractFactoryPatternPackages.Circle" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Circle.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="440" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -101,8 +101,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="11" language="java" name="AbstractFactoryPatternPackeges.AbstractFactory" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/AbstractFactory.java" binary="false" 
+  <class id="11" language="java" name="AbstractFactoryPatternPackages.AbstractFactory" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/AbstractFactory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="117" width="149" x="610" y="315"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -111,8 +111,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="12" language="java" name="AbstractFactoryPatternPackeges.Blue" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Blue.java" binary="false" 
+  <class id="12" language="java" name="AbstractFactoryPatternPackages.Blue" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Blue.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="149" x="839" y="629"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -121,8 +121,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="13" language="java" name="AbstractFactoryPatternPackeges.Color" project="DesignPattern" 
-    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackeges/Color.java" binary="false" 
+  <interface id="13" language="java" name="AbstractFactoryPatternPackages.Color" project="DesignPattern" 
+    file="/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternPackages/Color.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="149" x="1070" y="768"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 

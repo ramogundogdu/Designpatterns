@@ -1,4 +1,4 @@
-package FactoryPatternPackeges;
+package FactoryPatternPackages;
 
 
 public class Rectangle implements Shape {

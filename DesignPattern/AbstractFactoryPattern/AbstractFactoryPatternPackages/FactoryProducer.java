@@ -1,4 +1,4 @@
-package AbstractFactoryPatternPackeges;
+package AbstractFactoryPatternPackages;
 
 public class FactoryProducer {
 	public static AbstractFactory getFactory(String choice) {

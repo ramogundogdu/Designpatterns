@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.6" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
   realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
-  <class id="1" language="java" name="FactoryPatternPackeges.FactoryPatternDemo" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/FactoryPatternDemo.java" binary="false" 
+  <class id="1" language="java" name="FactoryPatternPackages.FactoryPatternDemo" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/FactoryPatternDemo.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="99" width="141" x="526" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
@@ -11,8 +11,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="FactoryPatternPackeges.Rectangle" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/Rectangle.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="FactoryPatternPackages.Rectangle" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/Rectangle.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="114" x="195" y="315"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -20,8 +20,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="3" language="java" name="FactoryPatternPackeges.Shape" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/Shape.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="3" language="java" name="FactoryPatternPackages.Shape" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/Shape.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="81" width="114" x="505" y="454"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -29,8 +29,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="4" language="java" name="FactoryPatternPackeges.ShapeFactory" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/ShapeFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="4" language="java" name="FactoryPatternPackages.ShapeFactory" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/ShapeFactory.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="142" x="350" y="176"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -38,8 +38,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="FactoryPatternPackeges.Circle" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/Circle.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="5" language="java" name="FactoryPatternPackages.Circle" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/Circle.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="114" x="349" y="315"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -47,8 +47,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="FactoryPatternPackeges.Square" project="DesignPattern" 
-    file="/DesignPattern/FactoryPattern/FactoryPatternPackeges/Square.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="6" language="java" name="FactoryPatternPackages.Square" project="DesignPattern" 
+    file="/DesignPattern/FactoryPattern/FactoryPatternPackages/Square.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="114" x="41" y="315"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      

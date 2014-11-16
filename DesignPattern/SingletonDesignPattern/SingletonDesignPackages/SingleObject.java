@@ -1,4 +1,4 @@
-package SingletonDesignPackeges;
+package SingletonDesignPackages;
 
 public class SingleObject {
 	

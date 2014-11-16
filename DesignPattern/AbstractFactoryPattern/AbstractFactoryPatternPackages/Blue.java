@@ -1,4 +1,4 @@
-package AbstractFactoryPatternPackeges;
+package AbstractFactoryPatternPackages;
 
 public class Blue implements Color {
 	@Override
